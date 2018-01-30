@@ -14,7 +14,7 @@ var pagesAvailable = new Array(numberOfPagesInThisFolder);
     pagesAvailable[5]="personalInformation.html";
     pagesAvailable[6]="pictures.html";
     pagesAvailable[7]="racism.html";
-    pagesAvailable[8]="setting.html";
+    pagesAvailable[8]="settings.html";
 
 function showDiv() {
     var divToShow = document.getElementById("moreInfo");
