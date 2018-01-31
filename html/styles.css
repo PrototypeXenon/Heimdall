@@ -1,0 +1,61 @@
+html{
+    background-color: floralwhite;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: cornflowerblue;
+}
+
+li {
+    float: left;
+    border-right: 1px solid white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+li a {
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: mediumseagreen; 
+}
+
+.active {
+    background-color: salmon;
+}
+
+li:last-child {
+    border-right: none;
+    border-left: 1px solid white;
+}
+
+#progressBar{
+    margin: auto;
+    width: 160px;
+    padding: 10px;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
