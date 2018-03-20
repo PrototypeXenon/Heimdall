@@ -18,6 +18,7 @@ li {
 
 li a {
     color: white;
+    background-color: mediumseagreen;
     display: block;
     text-align: center;
     padding: 14px 16px;
@@ -25,7 +26,7 @@ li a {
 }
 
 li a:hover {
-    background-color: mediumseagreen; 
+    background-color: khaki; 
 }
 
 .active {
@@ -59,3 +60,38 @@ h4{
     padding: 10px;
 }
 
+#searchInput {
+    background-color: cornflowerblue;
+    width: 100%; 
+    font-size: 16px;
+    padding: 14px 20px 14px 40px;
+    border: none;
+    color: white;
+}
+
+::placeholder {
+    color: white;
+    opacity: 1;
+}
+
+#searchOptions {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+
+#searchOptions li a {
+    border: 1px solid #ddd; /* Add a border to all links */
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6; /* Grey background color */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove default text underline */
+    font-size: 18px; /* Increase the font-size */
+    color: black; /* Add a black text color */
+    display: block; /* Make it into a block element to fill the whole list */
+}
+
+#searchOptions li a:hover:not(.header) {
+    background-color: #eee; /* Add a hover effect to all links, except for headers */
+}

@@ -1,21 +1,25 @@
-function showSearchResult(str) {
-  if (str.length==0) { 
-    document.getElementById("livesearch").innerHTML="";
-    document.getElementById("livesearch").style.border="0px";
-    return;
-  }
-  if (window.XMLHttpRequest) {
-    //checks for new browsers
-    xmlhttp=new XMLHttpRequest();
-  } else {  //just for legacy with old browsers
-    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  }
-  xmlhttp.onreadystatechange=function() {
-    if (this.readyState==4 && this.status==200) {
-      document.getElementById("livesearch").innerHTML=this.responseText;
-      document.getElementById("livesearch").style.border="1px solid #A5ACB2";
+function showAllItems() {
+    var li, i, ul;
+    ul = window.document.getElementById("searchOptions");
+    li = ul.getElementsByTagName('li');
+    
+    li[i].style.display = "";
+}
+
+function searchFor() {
+    var input, filter, ul, li, a, i;
+    input = window.document.getElementById('searchInput');
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("searchOptions");
+    li = ul.getElementsByTagName('li');
+
+    // Loop through all list items, and hide those who don't match the search query
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
     }
-  }
-  xmlhttp.open("GET","livesearch.php?q="+str,true);
-  xmlhttp.send();
 }
