@@ -2,7 +2,7 @@ html{
     background-color: floralwhite;
 }
 
-ul {
+#navbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -10,19 +10,23 @@ ul {
     background-color: cornflowerblue;
 }
 
-li {
+#navbar li {
     float: left;
     border-right: 1px solid white;
     font-family: 'Open Sans', sans-serif;
 }
 
-li a {
+#navbar li a {
     color: white;
     background-color: mediumseagreen;
     display: block;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+#navbar li a:hover {
+    background-color: khaki; 
 }
 
 li a:hover {
@@ -78,20 +82,14 @@ h4{
     list-style-type: none;
     padding: 0;
     margin: 0;
-    display: none;
 }
 
 #searchOptions li a {
-    border: 1px solid #ddd; /* Add a border to all links */
-    margin-top: -1px; /* Prevent double borders */
-    background-color: #f6f6f6; /* Grey background color */
-    padding: 12px; /* Add some padding */
-    text-decoration: none; /* Remove default text underline */
-    font-size: 18px; /* Increase the font-size */
-    color: black; /* Add a black text color */
-    display: block; /* Make it into a block element to fill the whole list */
-}
-
-#searchOptions li a:hover:not(.header) {
-    background-color: #eee; /* Add a hover effect to all links, except for headers */
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: -4px;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
 }
