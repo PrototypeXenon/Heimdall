@@ -7,5 +7,7 @@ We look forward to having you contribute to our community, but first we'd like t
 ### The Checklist:
 
 [ ] Read [this page](https://opensource.guide/how-to-contribute/) 
+
 [ ] Familiarize yourself with our project 
+
 [ ] Read our [code of conduct](https://github.com/PrototypeXenon/securityApp/blob/master/CODE_OF_CONDUCT.md)
