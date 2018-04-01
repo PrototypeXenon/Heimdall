@@ -36,7 +36,7 @@ We use (kind of) [SemVer](http://semver.org/) for versioning. For the versions a
 
 * **Konnor Klercke** - *Initial Work, Owner* - [PrototypeXenon](https://github.com/PrototypeXenon)
 
-See also the list of [contributors](https://github.com/PrototypeXenon/securityApp/contributors who participated in this project.
+See also the list of [contributors](https://github.com/PrototypeXenon/securityApp/contributors) who participated in this project.
 
 ## License
 
