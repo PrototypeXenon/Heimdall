@@ -5,9 +5,13 @@ First of all, thank you! The fact that you're reading this means you've already 
 # Table of Contents
 
 - [Important Links](#important-links)
+
   -[Social](#social)
+  
 - [Before You Contribute](#before-you-contribute)
+
 - [Styling](#styling)
+
   -[Commit Messages](#commit-messages)
 
 ### Important Links
