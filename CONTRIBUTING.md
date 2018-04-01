@@ -6,6 +6,8 @@ First of all, thank you! The fact that you're reading this means you've already 
 
 - [Important Links](#important-links)
   - [Social](#social)
+  - [Development](#development)
+  - [Boring Stuff](#boring-stuff)
 - [Before You Contribute](#before-you-contribute)
 - [Styling](#styling)
   - [Commit Messages](#commit-messages)
