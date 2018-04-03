@@ -35,6 +35,11 @@ We use (kind of) [SemVer](http://semver.org/) for versioning. For the versions a
 ## Authors
 
 * **Konnor Klercke** - *Initial Work, Owner* - [PrototypeXenon](https://github.com/PrototypeXenon)
+* **Michael Bialowas** - *Creative Director* - [lmhs-mbialowas](lmhs-mbialowas)
+* **Christine Pronina** - *Team Member* - [christinepronina](https://github.com/christinepronina)
+* **Dustin Spade** - *Team Member* - [spader81](https://github.com/spader81)
+* **Devin Twine** - *Team Member* - [GummyXS](https://github.com/GummyXS)
+* **Taylor Miller** - *Team Member* - [technicalmanual27](https://github.com/technicalmanual27)
 
 See also the list of [contributors](https://github.com/PrototypeXenon/Heimdall/contributors) who participated in this project.
 
