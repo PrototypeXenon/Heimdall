@@ -50,5 +50,5 @@ Please try to make sure you've done all of these things before submitting a pull
     * :lock: `:lock:` when dealing with security
     * :arrow_up: `:arrow_up:` when upgrading dependencies
     * :arrow_down: `:arrow_down:` when downgrading dependencies
-    * :folder: `:folder:` when changing filetree
+    * :file_folder: `:file_folder:` when changing filetree
 
