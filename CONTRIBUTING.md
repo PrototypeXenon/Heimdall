@@ -51,4 +51,5 @@ Please try to make sure you've done all of these things before submitting a pull
     * :arrow_up: `:arrow_up:` when upgrading dependencies
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :file_folder: `:file_folder:` when changing filetree
+    * :wrench: `:wrench:` when updating code
 
