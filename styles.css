@@ -19,8 +19,11 @@ html{
 h1 {
     text-align: center;
     font-family: 'Roboto', sans-serif;
+    font-size: 60px;
     color: salmon;
-    position: fixed;
+    position: absolute;
+    top: 35px;
+    left: 45%;
 }
 
 #navbar li a {
