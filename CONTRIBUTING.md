@@ -1,6 +1,6 @@
-# Contributing To securityApp
+# Contributing To Heimdall
 
-First of all, thank you! The fact that you're reading this means you've already put time into contributing to securityApp! Great! Every little bit helps a ton! Don't be afraid to contribute anything, no matter how small. This project is run by a few high schoolers, so every bit helps :)
+First of all, thank you! The fact that you're reading this means you've already put time into contributing to Heimdall! Great! Every little bit helps a ton! Don't be afraid to contribute anything, no matter how small. This project is run by a few high schoolers, so every bit helps :)
 
 # Table of Contents
 
@@ -16,11 +16,11 @@ First of all, thank you! The fact that you're reading this means you've already 
 ###### Social
 - [Gitter](https://gitter.im/BSsecurityApp/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ###### Development
-- [Issues Page](https://github.com/PrototypeXenon/securityApp/issues)
-- [Project Page](https://github.com/PrototypeXenon/securityApp/projects/1) 
+- [Issues Page](https://github.com/PrototypeXenon/Heimdall/issues)
+- [Project Page](https://github.com/PrototypeXenon/Heimdall/projects/1) 
 ###### Boring Stuff
-- [Code of Conduct](https://github.com/PrototypeXenon/securityApp/blob/master/CODE_OF_CONDUCT.md)
-- [License](https://github.com/PrototypeXenon/securityApp/blob/master/LICENSE)
+- [Code of Conduct](https://github.com/PrototypeXenon/Heimdall/blob/master/CODE_OF_CONDUCT.md)
+- [License](https://github.com/PrototypeXenon/Heimdall/blob/master/LICENSE)
 
 ### Before You Contribute:
 
@@ -30,7 +30,7 @@ Please try to make sure you've done all of these things before submitting a pull
 
 [ ] Familiarize yourself with our project 
 
-[ ] Read our [code of conduct](https://github.com/PrototypeXenon/securityApp/blob/master/CODE_OF_CONDUCT.md)
+[ ] Read our [code of conduct](https://github.com/PrototypeXenon/Heimdall/blob/master/CODE_OF_CONDUCT.md)
 
 ### Styling
   ###### Commit Messages
@@ -51,4 +51,5 @@ Please try to make sure you've done all of these things before submitting a pull
     * :arrow_up: `:arrow_up:` when upgrading dependencies
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :file_folder: `:file_folder:` when changing filetree
+    * :wrench: `:wrench:` when updating code
 

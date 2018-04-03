@@ -1,6 +1,6 @@
-# securityAPP
+# Heimdall
 
-securityAPP is a website (with a temporary name) which was created to help make the internet a safer place for everyone. Our team's intention is to create a visually pleasing, easy-to-use website with complete, but human-understanable guides for staying safe. We want to create a community of like-minded guardians of the internet. securityApp is the solution to the growing problem of internet safety.
+Heimdall is a website which was created to help make the internet a safer place for everyone. Our team's intention is to create a visually pleasing, easy-to-use website with complete, but human-understanable guides for staying safe. We want to create a community of like-minded guardians of the internet. securityApp is the solution to the growing problem of internet safety.
 
 ## Getting Started
 
@@ -10,11 +10,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ##### What things you need to install the software and how to install them
 
-Currently, securityApp only needs javascript, HTML, and CSS, all of which come pre-installed with most operating systems. If you're using an OS that doesn't have these installed by default, you probably know how to install them yourself.
+Currently, Heimdall only needs javascript, HTML, and CSS, all of which come pre-installed with most operating systems. If you're using an OS that doesn't have these installed by default, you probably know how to install them yourself.
 
 ### Code Styling
 
-To be honest, we don't really have a uniform style yet. Stay tuned for that OR [contribute one!](https://github.com/PrototypeXenon/securityApp/issues/1)
+To be honest, we don't really have a uniform style yet. Stay tuned for that OR [contribute one!](https://github.com/PrototypeXenon/Heimdall/issues/1)
 
 ```
 Example code will go here someday
@@ -22,11 +22,11 @@ Example code will go here someday
 
 ## Deployment
 
-securityApp is meant to run on my Apache server, which it does!
+Heimdall is meant to run on my Apache server, which it does!
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/PrototypeXenon/securityApp/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/PrototypeXenon/Heimdall/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -35,8 +35,13 @@ We use (kind of) [SemVer](http://semver.org/) for versioning. For the versions a
 ## Authors
 
 * **Konnor Klercke** - *Initial Work, Owner* - [PrototypeXenon](https://github.com/PrototypeXenon)
+* **Michael Bialowas** - *Creative Director* - [lmhs-mbialowas](lmhs-mbialowas)
+* **Christine Pronina** - *Team Member* - [christinepronina](https://github.com/christinepronina)
+* **Dustin Spade** - *Team Member* - [spader81](https://github.com/spader81)
+* **Devin Twine** - *Team Member* - [GummyXS](https://github.com/GummyXS)
+* **Taylor Miller** - *Team Member* - [technicalmanual27](https://github.com/technicalmanual27)
 
-See also the list of [contributors](https://github.com/PrototypeXenon/securityApp/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/PrototypeXenon/Heimdall/contributors) who participated in this project.
 
 ## License
 
