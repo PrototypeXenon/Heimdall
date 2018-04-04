@@ -1,6 +1,6 @@
 # Heimdall
 
-Heimdall is a website which was created to help make the internet a safer place for everyone. Our team's intention is to create a visually pleasing, easy-to-use website with complete, but human-understanable guides for staying safe. We want to create a community of like-minded guardians of the internet. securityApp is the solution to the growing problem of internet safety.
+Heimdall is a website which was created to help make the internet a safer place for everyone. Our team's intention is to create a visually pleasing, easy-to-use website with complete, but human-understanable guides for staying safe. We want to create a community of like-minded guardians of the internet. Heimdall is the solution to the growing problem of internet safety.
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ Please read [CONTRIBUTING.md](https://github.com/PrototypeXenon/Heimdall/blob/ma
 
 ## Versioning
 
-We use (kind of) [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/PrototypeXenon/securityApp/tags) . 
+We use (kind of) [SemVer](http://semver.org/) for versioning. For the versions available, see the [our releases page](https://github.com/PrototypeXenon/Heimdall/releases) . 
 
 ## Authors
 
