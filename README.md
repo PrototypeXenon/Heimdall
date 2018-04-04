@@ -30,7 +30,7 @@ Please read [CONTRIBUTING.md](https://github.com/PrototypeXenon/Heimdall/blob/ma
 
 ## Versioning
 
-We use (kind of) [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/PrototypeXenon/securityApp/tags) . 
+We use (kind of) [SemVer](http://semver.org/) for versioning. For the versions available, see the [our releases page](https://github.com/PrototypeXenon/Heimdall/releases) . 
 
 ## Authors
 
