@@ -83,11 +83,6 @@ h4{
     color: white;
 }
 
-::placeholder {
-    color: white;
-    opacity: 1;
-}
-
 #searchOptions {
     list-style-type: none;
     padding: 0;
@@ -101,5 +96,8 @@ h4{
     padding: 12px;
     text-decoration: none;
     font-size: 18px;
-    display: block;
+}
+
+.hidden {
+    display:none;
 }

@@ -4,10 +4,11 @@ function searchFor() {
     filter = input.value.toUpperCase();
     ul = document.getElementById("searchOptions");
     li = ul.getElementsByTagName('li');
-
+    
+    ('#searchOptions').removeClass('hidden');
     // Loop through all list items, and hide those who don't match the search query
     for (i = 0; i < li.length; i++) {
-        li[i].style.display = "none";
+        //li[i].style.display = "none";
         a = li[i].getElementsByTagName("a")[0];
         if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
             li[i].style.display = "";
