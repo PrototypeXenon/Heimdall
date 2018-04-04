@@ -5,7 +5,7 @@ function searchFor() {
     ul = document.getElementById("searchOptions");
     li = ul.getElementsByTagName('li');
     
-    ('#searchOptions').removeClass('hidden');
+    document.getElementById("searchOptions").removeClass('hidden');
     // Loop through all list items, and hide those who don't match the search query
     for (i = 0; i < li.length; i++) {
         //li[i].style.display = "none";
