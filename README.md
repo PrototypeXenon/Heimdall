@@ -1,6 +1,6 @@
 # Heimdall
 
-Heimdall is a website which was created to help make the internet a safer place for everyone. Our team's intention is to create a visually pleasing, easy-to-use website with complete, but human-understanable guides for staying safe. We want to create a community of like-minded guardians of the internet. securityApp is the solution to the growing problem of internet safety.
+Heimdall is a website which was created to help make the internet a safer place for everyone. Our team's intention is to create a visually pleasing, easy-to-use website with complete, but human-understanable guides for staying safe. We want to create a community of like-minded guardians of the internet. Heimdall is the solution to the growing problem of internet safety.
 
 ## Getting Started
 
