@@ -2,7 +2,7 @@ html{
     background-color: floralwhite;
 }
 
-#navbar {
+#navbar{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -10,13 +10,13 @@ html{
     background-color: cornflowerblue;
 }
 
-#navbar li {
+#navbar li{
     float: left;
     border-right: 1px solid white;
     font-family: 'Open Sans', sans-serif;
 }
 
-h1 {
+h1{
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-size: 60px;
@@ -26,7 +26,7 @@ h1 {
     left: 45%;
 }
 
-#navbar li a {
+#navbar li a{
     color: white;
     background-color: mediumseagreen;
     display: block;
@@ -35,19 +35,19 @@ h1 {
     text-decoration: none;
 }
 
-#navbar li a:hover {
+#navbar li a:hover{
     background-color: khaki; 
 }
 
-li a:hover {
+li a:hover{
     background-color: khaki; 
 }
 
-.active {
+.active{
     background-color: salmon;
 }
 
-li:last-child {
+li:last-child{
     border-right: none;
     border-left: 1px solid white;
 }
@@ -74,7 +74,7 @@ h4{
     padding: 10px;
 }
 
-#searchInput {
+#searchInput{
     background-color: cornflowerblue;
     width: 100%; 
     font-size: 16px;
@@ -83,13 +83,14 @@ h4{
     color: white;
 }
 
-#searchOptions {
+#searchOptions{
     list-style-type: none;
     padding: 0;
     margin: 0;
+    width: 10%;
 }
 
-#searchOptions li a {
+#searchOptions li a{
     color: white;
     font-family: 'Open Sans', sans-serif;
     margin-top: -4px;
@@ -98,6 +99,22 @@ h4{
     font-size: 18px;
 }
 
-.hidden {
+.hidden{
     display:none;
+}
+
+.informationParagraph{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: salmon;
+    position: absolute;
+    top: 140px;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.searchDiv{
+    display: absolute;
+    
 }
