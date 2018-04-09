@@ -25,7 +25,15 @@ h1{
     top: 35px;
     left: 45%;
 }
-
+h3 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    color: salmon;
+    position: absolute;
+    top: 35px;
+    left: 45%;
+}
 #navbar li a{
     color: white;
     background-color: mediumseagreen;
@@ -97,7 +105,12 @@ h4{
     text-decoration: none;
     font-size: 18px;
 }
-
+.teamMembers {
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    color: salmon;
+    left: 30%
+}
 .hidden{
     display:none;
 }
