@@ -10,8 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ##### What things you need to install the software and how to install them
 
-Currently, Heimdall only needs javascript, HTML, and CSS, all of which come pre-installed with most operating systems. If you're using an OS that doesn't have these installed by default, you probably know how to install them yourself.
-
+Currently, Heimdall needs javascript, HTML, CSS, and [jQuery 3.3.1](https://jquery.com/). Most operating systems have the first three installed already and jQuery is already installed in the Heimdall folder, so there's no need to worry about installing anything.
 ### Code Styling
 
 To be honest, we don't really have a uniform style yet. Stay tuned for that OR [contribute one!](https://github.com/PrototypeXenon/Heimdall/issues/1)
