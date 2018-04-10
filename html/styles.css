@@ -42,9 +42,9 @@ li:last-child{
 }
 
 .center{
-    margin: auto;
     width: 50%;
-    padding: 10px;
+    left: 25%;
+    right: 25%;
 }
 
 #searchInput{
