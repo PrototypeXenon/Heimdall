@@ -37,3 +37,95 @@ html{
 body{
     background-color: floralwhite;
 }
+
+
+#navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: cornflowerblue;
+}
+
+#navbar li{
+    float: left;
+    border-right: 1px solid white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#navbar li a{
+    color: white;
+    background-color: mediumseagreen;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#navbar li a:hover{
+    background-color: khaki; 
+}
+
+li a:hover{
+    background-color: khaki; 
+}
+
+li:last-child{
+    border-right: none;
+    border-left: 1px solid white;
+}
+
+#progressBar{
+    margin: auto;
+    width: 160px;
+    padding: 10px;
+}
+
+.center{
+    width: 50%;
+    left: 25%;
+    right: 25%;
+}
+
+#searchInput{
+    background-color: cornflowerblue;
+    width: 100%; 
+    font-size: 16px;
+    padding: 14px 20px 14px 40px;
+    border: none;
+    color: white;
+}
+
+#searchOptions{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#searchOptions li a{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: -4px;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.hidden{
+    display:none;
+}
+
+.informationParagraph{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: salmon;
+    position: absolute;
+    top: 140px;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.searchDiv{
+    display: absolute;  
+}

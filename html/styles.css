@@ -1,3 +1,6 @@
+html{
+    background-color: white;
+}
 
 #navbar{
     list-style-type: none;
@@ -11,6 +14,52 @@
     float: left;
     border-right: 1px solid white;
     font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: dimgray;
+    position: absolute;
+    top: 50px;
+    font-size: 40px;
+}
+
+.infoParagraph{
+    position: absolute;
+    top: 105px;
+    left: 0px;
+    z-index: -1;
+    font-family: 'Roboto', sans-serif;
+    color: dimgray;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: dimgray;
+    position: absolute;
+    top: 175px;
+    left: 30px;
+    z-index: -1;
+    font-size: 20px;
+}
+
+.topBuffer{
+    margin-top: 30px;
+}
+
+.teamMembers ul{
+    font-size: 15px;
+    position: absolute;
+    left: 26.7%;
+    top: 220px;
+}
+
+.license{
+    position: absolute;
+    top: 500px;
+    text-align: center;
+    left: 30%
 }
 
 #navbar li a{
@@ -30,6 +79,10 @@ li a:hover{
     background-color: khaki; 
 }
 
+.active{
+    background-color: salmon;
+}
+
 li:last-child{
     border-right: none;
     border-left: 1px solid white;
@@ -39,6 +92,16 @@ li:last-child{
     margin: auto;
     width: 160px;
     padding: 10px;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 .center{
@@ -70,7 +133,12 @@ li:last-child{
     text-decoration: none;
     font-size: 18px;
 }
-
+.teamMembers {
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    color: dimgray;
+    left: 30%
+}
 .hidden{
     display:none;
 }
@@ -81,11 +149,9 @@ li:last-child{
     color: salmon;
     position: absolute;
     top: 140px;
-    width: 40%;
-    margin-left: 30%;
-    margin-right: 30%;
 }
 
 .searchDiv{
-    display: absolute;  
+    display: relative;  
+    z-index: 1;
 }
