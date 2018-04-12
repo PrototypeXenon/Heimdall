@@ -88,12 +88,14 @@ function searchFor() {
     $(ul).removeClass('hidden');
     // Loop through all list items, and hide those who don't match the search query
     for (i = 0; i < li.length; i++) {
-        //li[i].style.display = "none";
         a = li[i].getElementsByTagName("a")[0];
-        if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-            li[i].style.display = "";
+        if (filter == ""){
+            $(li[i]).addClass('hidden');
+        }
+        else if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+            $(li[i]).removeClass('hidden');
         } else {
-            li[i].style.display = "none";
+            $(li[i]).addClass('hidden');
         }
     }
 }
