@@ -108,7 +108,13 @@ li:last-child{
 }
 
 .hidden{
-    display:none;
+    display: none;
+    border: -4px;
+    margin: -4px;
+    padding: -4px;
+    position: absolute;
+	left: -1000px;
+    transform: scale(0);
 }
 
 .informationParagraph{
