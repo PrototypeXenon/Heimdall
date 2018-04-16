@@ -48,7 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments
 
-* Thanks to Mrs. Marks for (not so) gently inspiring us to keep working on our project
+* Thanks to Mrs. Marks for (somewhat) gently inspiring us to keep working on our project
 * Thanks to [@PurpleBooth](https://github.com/PurpleBooth) for making our README not suck
 * Thanks to everyone who has given me the motivation to keep working on this project so I can be proud of what it's become
 
